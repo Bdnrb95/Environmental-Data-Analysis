@@ -1,4 +1,4 @@
-# environmental-data-analysis
+# Environmental-data-analysis
 
 # Overview
 This project looks at environmental monitoring data to track contamination trends and spot periods of high risk.
